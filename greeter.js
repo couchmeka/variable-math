@@ -1,2 +1,2 @@
-let name = "Meka Daniels-Couch";
-console.log(`Hello ${name}`);
+let myName = "Meka Daniels-Couch";
+console.log(`Hello ${myName}`);
