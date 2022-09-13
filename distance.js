@@ -12,4 +12,4 @@ yFormula = yFormula ** 2;
 distance = yFormula + xFormula;
 
 
-console.log(Math.sqrt ,distance);
+console.log(`The distance between (${x1},${y1}) and (${x2},${y2}) is ${Math.sqrt ,distance}`);
